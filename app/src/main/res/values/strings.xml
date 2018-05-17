@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Dialog</string>
+
+    <string-array name="drink_names">
+        <item>Tea</item>
+        <item>coffee</item>
+        <item>juice</item>
+        <item>coca cola</item>
+        <item>Nescafe</item>
+        <item>Water</item>
+        <item>Milk</item>
+        <item>Orange</item>
+    </string-array>
 </resources>
